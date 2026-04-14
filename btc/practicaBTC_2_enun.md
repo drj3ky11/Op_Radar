@@ -1,4 +1,4 @@
-## Demo 1 btc
+## Demo 2 btc
 🔍 Práctica: Follow the Money — Colonial Pipeline Ransomware (DarkSide, 2021)
 
 El 7 de mayo de 2021, Colonial Pipeline (el mayor oleoducto de EE.UU.) sufrió un ataque de ransomware del grupo DarkSide y pagó 75 BTC (5M$) como rescate.
