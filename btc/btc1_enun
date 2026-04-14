@@ -1,0 +1,13 @@
+# Demo 1 btc
+
+## 🔍 Práctica: Follow the Money — Twitter Hack / Bitcoin Scam (julio 2020)
+
+El 15 de julio de 2020, un hacker de 17 años llamado Graham Ivan Clark ("Kirk") comprometió la red interna de Twitter mediante spear phishing telefónico a empleados, obtuvo acceso al panel de administración, y secuestró ~130 cuentas verificadas (Obama, Biden, Musk, Gates, Apple, Binance…) para publicar una estafa de "double your bitcoin". En pocas horas recaudaron ~13 BTC (~120.000$). El rastro on-chain llevó al FBI directamente a Binance y Coinbase, donde los acusados tenían cuentas KYC.
+
+### 🟥 Punto de partida — Dirección de la estafa (publicada en los tweets)
+
+bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
+
+👉 https://blockchair.com/bitcoin/address/bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
+
+Esta dirección recibió 13,14 BTC (~120.000$) durante la tarde del 15 de julio.
